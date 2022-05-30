@@ -100,7 +100,7 @@ GDB (GNU Debugger)
 
 Endian 은 컴퓨터 메모리에 연속된 대상을 배열하는 Byte Order를 의미한다.
 
-![Untitled](Buffer%20Overflow%20Exploit%20ce83ce31bcd94d99bfeb231ac74f7137/Untitled%201.png)
+![Untitled](imgs/2022-05-30-Buffer_Overflow_Attac_imgs/Untitled.png)
 
 - **MSB와 LSB**
     - MSB (Most Significant Bit): 데이터의 최상위 비트를 의미
