@@ -2,7 +2,7 @@
 layout: post
 title: "Buffer Overflow Exploit"
 categories: "Blog"
-tags" "Blog"
+tags: "Blog"
 
 ---
 # Buffer Overflow Exploit
