@@ -5,7 +5,6 @@ categories: "Blog"
 tags: "Blog"
 
 ---
-# Buffer Overflow Exploit
 
 ## **AT&T와 Intel의 assembly Syntax 차이**
 
