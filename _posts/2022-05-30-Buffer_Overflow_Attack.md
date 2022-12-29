@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Buffer Overflow Exploit"
+excerpt: "Buffer Overflow를 이용한 공격"
 categories: "Blog"
 tags: "Blog"
 
